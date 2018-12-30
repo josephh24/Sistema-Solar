@@ -1,8 +1,7 @@
 # Sistema-Solar
 Animacion de nuestro sistema social 
 
-
-Controles: <br/>
+ ## Controles
 
 [w] = arriba. <br/>
 [s] = abajo. <br/>
