@@ -2,22 +2,22 @@
 Animacion de nuestro sistema social 
 
 
-Controles:
+Controles: <br/>
 
-[w] = arriba.
-[s] = abajo.
-[a] = izquierda.
-[d] = derecha.
-[q] = rotacion arriba iquierda.
-[e] = rotacion arriba derecha.
-[flecha arriba] = zoom in.
-[flecha abajo] = zoom out.
-[1] = informacion de mercurio.
-[2] = informacion de venus.
-[3] = informacion de tierra.
-[4] = informacion de marte.
-[5] = informacion de jupiter.
-[6] = informacion de saturno.
-[7] = informacion de urano.
-[8] = informacion de neptuno.
-[9] = informacion de pluton.
+[w] = arriba. <br/>
+[s] = abajo. <br/>
+[a] = izquierda. <br/>
+[d] = derecha. <br/>
+[q] = rotacion arriba iquierda. <br/>
+[e] = rotacion arriba derecha. <br/>
+[flecha arriba] = zoom in. <br/>
+[flecha abajo] = zoom out. <br/>
+[1] = informacion de mercurio. <br/>
+[2] = informacion de venus. <br/>
+[3] = informacion de tierra. <br/>
+[4] = informacion de marte. <br/>
+[5] = informacion de jupiter. <br/>
+[6] = informacion de saturno. <br/>
+[7] = informacion de urano. <br/>
+[8] = informacion de neptuno. <br/>
+[9] = informacion de pluton. <br/>
